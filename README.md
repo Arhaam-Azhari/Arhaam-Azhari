@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Arhaam Azhari 👋
 
-<!--
-**Arhaam-Azhari/Arhaam-Azhari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at San José State University with interests in software engineering, product building, and interactive applications.
 
-Here are some ideas to get you started:
+I’m currently building projects that strengthen my understanding of core computer science concepts while also exploring practical, user-facing software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm working on
+
+- Interactive Data Structure Visualizer in Java
+- Campus-focused software ideas and product experiments
+- Coursework and technical projects in Java, UNIX, and software design
+
+## Tech I use
+
+- Java
+- Python
+- Git and GitHub
+- Linux / UNIX tools
+- VS Code
+
+## Featured Project
+
+### Interactive Data Structure Visualizer
+A Java GUI application for visualizing stacks, queues, linked lists, and binary search trees.
+
+## Connect with me
+
+- LinkedIn: [arhaam-azhari-39976b237](https://www.linkedin.com/in/arhaam-azhari-39976b237)
+- Email: arhaam10@outlook.com
