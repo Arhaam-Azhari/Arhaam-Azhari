@@ -18,10 +18,12 @@ I’m currently building projects that strengthen my understanding of core compu
 - Linux / UNIX tools
 - VS Code
 
-## Featured Project
+## Featured Projects
 
 ### Interactive Data Structure Visualizer
 A Java GUI application for visualizing stacks, queues, linked lists, and binary search trees.
+
+Tech: Java, Swing
 
 ## Connect with me
 
