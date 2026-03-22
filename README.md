@@ -1,14 +1,14 @@
-# Hi, I'm Arhaam Azhari 👋
+# Hi, I'm Arhaam Azhari
 
-Computer Science student at San José State University with interests in software engineering, product building, and interactive applications.
+I am Computer Science student at San José State University with interests in software engineering, product building and interactive applications.
 
-I’m currently building projects that strengthen my understanding of core computer science concepts while also exploring practical, user-facing software.
+I am currently building projects that strengthen my understanding of core computer science concepts while also exploring practical, user-facing software.
 
 ## What I'm working on
 
 - Interactive Data Structure Visualizer in Java
 - Campus-focused software ideas and product experiments
-- Coursework and technical projects in Java, UNIX, and software design
+- Coursework and technical projects in Java, UNIX and software design
 
 ## Tech I use
 
@@ -21,7 +21,7 @@ I’m currently building projects that strengthen my understanding of core compu
 ## Featured Projects
 
 ### Interactive Data Structure Visualizer
-A Java GUI application for visualizing stacks, queues, linked lists, and binary search trees.
+A Java GUI application for visualizing stacks, queues, linked lists and binary search trees.
 Tech: Java, Swing
 
 ### Rock-Paper-Scissors Machine Learning Game
