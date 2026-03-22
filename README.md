@@ -22,10 +22,12 @@ I’m currently building projects that strengthen my understanding of core compu
 
 ### Interactive Data Structure Visualizer
 A Java GUI application for visualizing stacks, queues, linked lists, and binary search trees.
-
 Tech: Java, Swing
 
-## Connect with me
+### Rock-Paper-Scissors Machine Learning Game
+A Java CLI game using the Strategy Pattern, featuring both random and adaptive machine learning algorithms that learn and predict player behavior.
+Tech: Java, OOP, Strategy Pattern, CLI
 
+## Connect with me
 - LinkedIn: [arhaam-azhari-39976b237](https://www.linkedin.com/in/arhaam-azhari-39976b237)
-- Email: arhaam10@outlook.com
+- Email: arhaam.azhari@runwayave.com
