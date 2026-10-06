@@ -17,6 +17,9 @@ A Java GUI application for visualizing stacks, queues, linked lists and binary s
 ### Rock-Paper-Scissors Machine Learning Game
 A Java CLI game using the Strategy Pattern, featuring both random and adaptive machine learning algorithms that learn and predict player behavior.
 
+### LedgerDesk
+A small business accounting web application combining software development and financial workflows.
+
 ## Connect with me
 - LinkedIn: [arhaam-azhari-39976b237](https://www.linkedin.com/in/arhaam-azhari-39976b237)
 - Email: arhaam.azhari@runwayave.com
