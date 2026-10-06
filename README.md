@@ -11,6 +11,9 @@ I am currently building projects that strengthen my understanding of core comput
 
 ## Featured Projects
 
+### LedgerDesk
+A small business accounting software built with Spring Boot, React and PostgreSQL allowing users to create invoices, record payments, manage bills and expenses, and reconcile bank transactions with a double-entry ledger connecting these workflows to financial reports, helping track cash, profit and outstanding balances.
+
 ### Interactive Data Structure Visualizer
 A Java GUI application for visualizing stacks, queues, linked lists and binary search trees.
 
